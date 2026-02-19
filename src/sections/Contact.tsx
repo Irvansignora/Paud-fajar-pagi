@@ -33,14 +33,10 @@ export default function Contact() {
   }, []);
 
   const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    // Simulate form submission
-    setIsSubmitted(true);
-    setTimeout(() => {
-      setIsSubmitted(false);
-      setFormData({ name: '', email: '', phone: '', message: '' });
-    }, 3000);
-  };
+      e.preventDefault();
+      const text = `Halo PAUD Fajar Pagi!%0ANama: ${formData.name}%0AEmail: ${formData.email}%0ATelepon: ${formData.phone}%0APesan: ${formData.message}`;
+      window.open(`https://wa.me/6285688453690?text=${text}`, '_blank');
+    };
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
     setFormData({
