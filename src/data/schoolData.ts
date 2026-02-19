@@ -14,28 +14,28 @@ export const staff = {
   manager: {
     name: "Fatmi Cahyani S.Pd.I",
     position: "Pengelola",
-    image: "/images/foto6.jpeg",
+    image: "/images/avatar.png",
   },
   headmaster: {
     name: "Dwi Anggraini Nurpiyanti",
     position: "Kepala Sekolah",
-    image: "/images/foto6.jpeg",
+    image: "/images/avatar.png",
   },
   teachers: [
     {
       name: "Siti Maimunah S.Pd",
       position: "Guru",
-      image: "/images/foto6.jpeg",
+      image: "/images/avatar.png",
     },
     {
       name: "Mindayanthi",
       position: "Guru",
-      image: "/images/foto6.jpeg",
+      image: "/images/avatar.png",
     },
     {
       name: "Anisa Fitriani",
       position: "Guru",
-      image: "/images/foto6.jpeg",
+      image: "/images/avatar.png",
     },
   ],
 };
