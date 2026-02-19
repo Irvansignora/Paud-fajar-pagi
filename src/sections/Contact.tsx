@@ -142,19 +142,6 @@ export default function Contact() {
                 </div>
               </div>
 
-              {/* Map Placeholder */}
-              <div className="mt-8 rounded-2xl overflow-hidden bg-white/10 p-4">
-                <div className="aspect-video rounded-xl bg-white/20 flex items-center justify-center">
-                  <div className="text-center">
-                    <MapPin className="w-12 h-12 mx-auto mb-2 text-white/60" />
-                    <p className="text-white/60 text-sm">Lokasi PAUD Fajar Pagi</p>
-                    <p className="text-white/40 text-xs mt-1">Jakarta Utara, Indonesia</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
           {/* Contact Form */}
           <div className={`transition-all duration-700 delay-300 ${isVisible ? 'opacity-100 translate-x-0' : 'opacity-0 translate-x-8'}`}>
             <div className="bg-white rounded-3xl shadow-xl p-8 lg:p-10 border border-slate-100">
