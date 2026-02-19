@@ -102,7 +102,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="font-semibold mb-1">Telepon</h4>
-                    <p className="text-white/80 text-sm">Hubungi kami untuk informasi lebih lanjut</p>
+                    <p className="text-white/80 text-sm">+62 856-8845-369</p>
                   </div>
                 </div>
 
