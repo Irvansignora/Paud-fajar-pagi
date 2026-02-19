@@ -161,6 +161,11 @@ export default function Navbar() {
               }}
               className="flex items-center justify-center gap-2 w-full px-4 py-3 rounded-xl font-semibold text-white bg-gradient-to-r from-sky-500 to-sky-400"
             >
+            <a 
+              href="https://wa.me/6285688453690"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <Phone className="w-4 h-4" />
               Hubungi Kami
             </a>
