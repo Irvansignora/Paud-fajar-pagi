@@ -3,7 +3,7 @@ export const schoolInfo = {
   shortName: "PAUD Fajar Pagi",
   tagline: "Sehat - Cerdas - Ceria",
   established: 2007,
-  address: "Jl. Veteran I Rt.002 Rw.04 Kel. Tugu Selatan Kec. Koja Jakarta Utara",
+  address: "Jl. Veteran I Rt.002 Rw.04 Kel. Tugu Selatan Kec. Koja Jakarta Utara (Balai Warga )",
   totalStudents: 36,
   totalClasses: 2,
   phone: "-",
