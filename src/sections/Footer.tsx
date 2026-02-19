@@ -140,8 +140,12 @@ export default function Footer() {
                   <span className="text-slate-400 text-sm">{schoolInfo.address}</span>
                 </li>
                 <li className="flex items-center gap-3">
-                  <Phone className="w-5 h-5 text-sky-500 flex-shrink-0" />
-                  <span className="text-slate-400 text-sm">+62 856-8845-369</span>
+                  <Phone className="w-5 h-5 text-sky-500 flex-shrink-0" /><a 
+                    href="https://wa.me/6285688453690" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="text-slate-400 text-sm hover:text-green-500 transition-colors"
+                  >+62 856-8845-369</a>
                 </li>
                 <li className="flex items-center gap-3">
                   <Mail className="w-5 h-5 text-sky-500 flex-shrink-0" />
