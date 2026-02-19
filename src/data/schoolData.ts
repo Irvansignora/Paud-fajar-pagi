@@ -178,5 +178,5 @@ export const stats = [
   { label: "Tahun Berdiri", value: "2007", icon: "📅" },
   { label: "Total Siswa", value: "31", icon: "👧" },
   { label: "Jumlah Kelas", value: "2", icon: "🏫" },
-  { label: "Tenaga Pengajar", value: "5", icon: "👩‍🏫" },
+  { label: "Tenaga Pengajar", value: "3", icon: "👩‍🏫" },
 ];
