@@ -4,7 +4,7 @@ export const schoolInfo = {
   tagline: "Sehat - Cerdas - Ceria",
   established: 2007,
   address: "Jl. Veteran I Rt.002 Rw.04 Kel. Tugu Selatan Kec. Koja Jakarta Utara (Balai Warga )",
-  totalStudents: 36,
+  totalStudents: 31,
   totalClasses: 2,
   phone: "-",
   email: "-",
